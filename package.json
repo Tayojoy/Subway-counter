@@ -1,0 +1,23 @@
+{
+  "name": "subway-counter",
+  "version": "1.0.0",
+  "description": "practise",
+  "main": "subway.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tayojoy/Subway-counter.git"
+  },
+  "keywords": [
+    "fun",
+    "learning"
+  ],
+  "author": "Joy Tayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tayojoy/Subway-counter/issues"
+  },
+  "homepage": "https://github.com/Tayojoy/Subway-counter#readme"
+}
